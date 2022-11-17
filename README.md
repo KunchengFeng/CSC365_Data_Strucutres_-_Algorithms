@@ -1,4 +1,4 @@
-# CSC365_Data_Strucutres_-_Algorithms
+# CSC365 Data Strucutres & Algorithms
  
 ## Course Taken Spring 2021
 
